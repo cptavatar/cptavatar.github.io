@@ -1,0 +1,13 @@
+---
+author: admin
+comments: true
+date: 2005-11-29 06:08:53+00:00
+layout: post
+slug: xbox-360-review
+title: XBox 360 review
+wordpress_id: 46
+categories:
+- Tech
+---
+
+Hey, a friend of mine from work played with the new 360 all weekend long and put together [his own review](http://dleonard.net/musings/xbox_360.html). Verdict? Hot - literally. Better [get that string ready.](http://www.theinquirer.net/?article=27930)..

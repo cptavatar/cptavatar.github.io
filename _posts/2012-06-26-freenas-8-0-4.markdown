@@ -1,0 +1,60 @@
+---
+author: admin
+comments: true
+date: 2012-06-26 04:26:32+00:00
+layout: post
+slug: freenas-8-0-4
+title: FreeNAS 8.0.4
+wordpress_id: 232
+---
+
+After the update to 12.04 for my ubuntu-based file server went awry, I took another look at the FreeBSD based [FreeNAS](http://www.freenas.org/) as a replacement. Turns out it was pretty easy to set up and I'm digging how it runs
+
+The Good:
+
+
+
+	
+  * [ZFS](http://docs.oracle.com/cd/E19963-01/html/821-1448/gaypw.html). Pools! Snapshots! RaidZ! Doesn't take that much reading to get dangerous.
+
+	
+  * Time Machine. Works well with Lion even, was having problems with ubuntu before where it was a hassle to get working.
+
+	
+  * You install on a flashdrive, leaves your ports open just for storage.
+
+
+The not so good:
+
+	
+  * Miss my print sharing, the only other feature I was using from running a full server distro. [8.2](http://doc.freenas.org/index.php/What%27s_New_in_8.2) maybe?
+
+	
+  * The piece of @#$@# Asus motherboard I'm using doesn't like to boot automatically off the flash drive, I need to select it each time on restart or it hangs due to a bug. Good think I don't restart often, thats ridiculous.
+
+
+
+
+I did run into a couple of other problems. Trying to copy data back to the server I got these pesky Error - 50 messages that would abort the copy over AFP. Turns out from looking at the logs, I had a number of  .AppleDouble files I needed to delete first to get the copy  using a
+
+
+
+    
+    find . -d -name .AppleDouble -exec rm -rf '{}' \;
+
+
+
+
+
+
+
+I also have a few scripts that use rsync to copy data around on a regular basis and need to use key based authentication with SSH however for that was giving me woes at first as well. Turns out looking at the logs I need to go back and make sure the permissions and ownership of all the mount directories ([something like this](http://fuzzysword.blogspot.com/2010/02/login-to-freenas-via-passwordless-ssh.html)) were correct otherwise SSHD gets grumpy.
+
+
+
+
+
+
+
+
+

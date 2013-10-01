@@ -1,0 +1,29 @@
+---
+author: admin
+comments: true
+date: 2006-03-20 06:07:59+00:00
+layout: post
+slug: retro-fun
+title: Retro Fun
+wordpress_id: 39
+categories:
+- Tech
+---
+
+Stumbled across an very fun japanese freeware game for both the Mac and PC called [Doukutsu Monogatari](http://www.gameflaws.com/cavestory/guides.php) (aka Cave Story). It reminds me of some old NES game, but done super super good for being freeware. Make sure and apply the english language pack unless you read Japanese. Oh, and here are the keyboard controls since they aren't listed  
+
+<- -> move left, right  
+
+up arrow point gun up  
+
+down arrow point gun down, perform action (talk, open, etc)  
+
+z jump  
+
+x fire weapon  
+
+a,s switch weapon  
+
+q inventory  
+
+w map

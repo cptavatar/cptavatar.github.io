@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{page.title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="/media/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/media/css/style.css" rel="stylesheet" >
+  </head>
+  <div id="header" >
+      <div id="headerimg" >
+          <a href="/"><img src="/media/img/theme/blogtitle.gif"></a>
+      </div>
+  </div>
+  <div id="pagemenu">
+      <ul id="page-list" class="clearfix">
+          <li class="page_item {% if page.slug  == 'home' %}current_page_item{% endif %}">
+              <a href="/">Home</a>
+          </li>
+          <li class="page_item page-item-68">
+              <a href="/code/">Code</a>
+          </li>
+          <li class="page_item {% if page.slug  == 'blog' %}current_page_item{% endif %}">
+              <a href="/blog">Blog</a>
+          </li>
+          <li class="page_item {% if page.slug  == 'about' %}current_page_item{%endif%}">
+              <a href="/about">About</a>
+          </li>
+      </ul>
+  </div>
+  <div id="page" >
+	<div class="row">
+		<div class="span6 offset3">
+			<div>
+			{{content}}
+			</div>
+		</div>
+	</div>	
+</div>

@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2005-11-03 06:09:51+00:00
+layout: post
+slug: i
+title: I
+wordpress_id: 53
+categories:
+- Tech
+tags:
+- Mac
+---
+
+When I picked up my first Mac a couple of years ago one of the few annoyances I found was launching programs. I missed the start button that most other GUIs such as Windows, Gnome, or KDE use for launching programs. You can stick your Application folder in your dock and fill your dock with shortcuts but its not a solution that worked really well for me.
+Enter [drag thing](http://www.dragthing.com/), probably the first piece of shareware I picked up for my new Mac. It allowed me to create sets of shortcuts to the applications I used arranged by a categorization scheme that made sense to me. Now, it can also do a lot more, but thats all I was really looking for and for the longest time I was satisfied.
+Then, a while back I stumbled across a post (over at [Ars](http://episteme.arstechnica.com/groupee/forums/a/frm/f/8300945231) if my memory serves me correct) where someone was raving about this other way to launch programs, something called [Quicksilver](http://quicksilver.blacktree.com/). Quicksilver [works much like how you would put together a simple sentence](http://docs.blacktree.com/quicksilver/what_is_quicksilver). Subject verb [optional object]. I find that typing out a brief intuitive key combination to launch an application is much quicker than reaching for the mouse and having to navigate a menu structure.
+Again, [there](http://vjarmy.com/archives/2005/02/quicksilver_fro.php) are a [ton](http://www.43folders.com/2005/06/15/more-quicksilver-power-tips/) of [other](http://www.rousette.org.uk/blog/archives/2004/09/24/using-ruby-one-liners-with-quicksilver/) [things](http://www.43folders.com/2005/01/12/quicksilver-arrow-into-web-pages/) you can [do](http://www.43folders.com/2005/08/10/sending-short-email-messages-from-within-quicksilver/) with quicksilver [other](http://www.43folders.com/2004/09/04/quicksilver-append-to-a-text-file-from-anywhere/) than launch programs but thats what I mainly use it for - that, and sending shell commands to a terminal by entering [text mode](http://docs.blacktree.com/quicksilver/text_mode) and changing my default action for text to "Run As Text Command In [iTerm](http://iterm.sourceforge.net/)"
+[Quicksilver Website](http://quicksilver.blacktree.com/)

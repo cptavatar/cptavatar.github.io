@@ -1,0 +1,22 @@
+---
+author: admin
+comments: true
+date: 2005-11-08 06:09:30+00:00
+layout: post
+slug: lastfm
+title: last.fm
+wordpress_id: 50
+categories:
+- Life
+- Tech
+---
+
+I've been playing with [last.fm](http://www.last.fm) a bit over the weekend. Its a neat idea, you create an account and download a program that tracks both what you listen to in iTunes and what you play on your iPod, then uploads the track information to a central website so you can share your musical tastes with others. Once you have uploaded enough tracks they try and identify a number of people who are your musical "neighbors" and theoretically have similar musical tastes as you so you can browse what they are listening to and maybe find some new music.  
+
+I was somewhat inspired by this after seeing [Adriaan Tijsseling](http://blog.kung-foo.tv/archives/001220.php)'s script that you can use to update your blog, but for now I think I'm going to just leave it as a link...
+
+
+
+
+[Alex's last.fm page](http://www.last.fm/user/cptavatar)  
+

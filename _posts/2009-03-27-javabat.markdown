@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2009-03-27 19:22:33+00:00
+layout: post
+slug: javabat
+title: JavaBat
+wordpress_id: 108
+categories:
+- Tech
+tags:
+- Java
+---
+
+Stumbled over another Java practice problem site for those poor bored individuals who just like writing code. This one is unique in that you are basically asked to implement a function which matches some specification you then write in a web form. On submit the site compiles the code and runs some unit tests against it to verify you have solved the particular challenge. You can create an account to track your progress if you like but its not mandatory. Pretty cool.
+
+[JavaBat](http://www.javabat.com)

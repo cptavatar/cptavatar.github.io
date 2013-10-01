@@ -1,0 +1,21 @@
+---
+author: admin
+comments: true
+date: 2008-07-25 23:25:29+00:00
+layout: post
+slug: new-look
+title: New Look
+wordpress_id: 66
+categories:
+- Life
+tags:
+- Site
+---
+
+I finally got around to making the site look decent. I went ahead and found [a theme that looked pretty good](http://cavemonkey50.com/code/clean-and-mean/) as a base, hacked around with it until I got it to look how I wanted, then added multiple sidebar support the way I like it. In the process of checking out [WordPress 2.6 compatible themes](http://codex.wordpress.org/Themes/Theme_Compatibility/2.6) I stumbled across an interesting [super minimalistic theme](http://www.plaintxt.org/themes/sandbox/) that was used as the base in a [design contest](http://sndbx.org/). If I ever get the urge to do a design from almost scratch it looks like it would be an excellent starting point.
+
+
+
+
+So, what do ya think? Look good?  
+
