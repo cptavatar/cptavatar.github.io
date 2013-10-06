@@ -61,9 +61,6 @@ h1 a, h2 a, h3 a, h1 a:hover,h2 a:hover, h3 a:hover{
 	
 /* Begin Structure */
 
-
-
-
 #headerimg img {
 	width: 300px;
 }
@@ -71,11 +68,6 @@ h1 a, h2 a, h3 a, h1 a:hover,h2 a:hover, h3 a:hover{
 .clear {
 	clear: both;
 }
-
-
-
-
-
 
 html>body .entry ul {
 	margin-left: 50px;
@@ -182,17 +174,6 @@ ol li, #sidebar ul ol li {
 	font-weight: bold;
 	}
 	
-#content #searchform #s {
-	width: 200px;
-	padding: 4px;
-	font: 1.1em arial, verdana, sans-serif;
-	}
-
-#content #searchsubmit {
-	padding: 3px 10px;
-	font: 1.1em arial, verdana, sans-serif;
-	font-weight: bold;
-	}	
 
 .entry form { /* This is mainly for password protected posts, makes them look better. */
 	text-align:center;
@@ -273,10 +254,6 @@ a.current {
 	background: #fff;
 	color:#333;
 }
-
-
-
-
 
 /* Page Menu CSS */
 
@@ -421,13 +398,8 @@ code {
 	color: black;
 }
 
-
-#content h2 a {
-	text-decoration: none;
-}
-
-#sidebar #wp-calendar a {
-	color: #999999; 
+.container {
+	margin-top: 20px;
 }
 	
 #sidebar #wp-calendar a:hover {
@@ -485,17 +457,6 @@ code {
 	color: #ccc;
 	}
 	
-#content #searchform #s {
-	background: #ddd;
-	color: #333;
-	border: 1px solid #bbb;
-	}
-
-#content #searchsubmit {
-	background: #666;
-	border: 1px solid #777;
-	color: #ccc;
-	}
 	
 #commentform input, #commentform textarea, fieldset {
 	border: 1px solid #ccc;

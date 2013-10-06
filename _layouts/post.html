@@ -1,0 +1,7 @@
+{% include header.html %}
+<div class="container">
+    <h3>{{page.title}}</h3>
+    <p class="author">{{page.date}}</p>
+    {{ page.content | markdownify  }}
+</div>
+</html>
