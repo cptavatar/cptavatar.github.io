@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/cptavatar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.alexrose.net
+  * I am cptavatar (https://keybase.io/cptavatar) on keybase.
+  * I have a public key ASAvlV0-BFmdMe9PxE_LahSMoa6CnPAuFpxRYg8w3dMuNQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012025f70266311277f62c3a85c9bda4b40606fdff42d44b82c2f8666f3e7ea6d8910a",
+      "host": "keybase.io",
+      "kid": "01202f955d3e04599d31ef4fc44fcb6a148ca1ae829cf02e169c51620f30ddd32e350a",
+      "uid": "58cd47d87199b0d4b691665e92cbc919",
+      "username": "cptavatar"
+    },
+    "merkle_root": {
+      "ctime": 1511309294,
+      "hash": "82b2a13847cec7ffe947db665831c5cd251f744338d6efe0cb597d458ccec596a07edd83aa1a765a5da1617c193f59343b4d27819105ca980bac22a12303801a",
+      "hash_meta": "0519e78a473373f22cd944208df57f57dd12a886c97acbadf7a341fb33dfb6cc",
+      "seqno": 1728820
+    },
+    "service": {
+      "hostname": "www.alexrose.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1511309303,
+  "expire_in": 504576000,
+  "prev": "447759fcf36d76c1ae505cfbb857dc6ac841c8c47700d6fcc2c516356bafb2e5",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL5VdPgRZnTHvT8RPy2oUjKGugpzwLhacUWIPMN3TLjUKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjVmNzAyNjYzMTEyNzdmNjJjM2E4NWM5YmRhNGI0MDYwNmZkZmY0MmQ0NGI4MmMyZjg2NjZmM2U3ZWE2ZDg5MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmY5NTVkM2UwNDU5OWQzMWVmNGZjNDRmY2I2YTE0OGNhMWFlODI5Y2YwMmUxNjljNTE2MjBmMzBkZGQzMmUzNTBhIiwidWlkIjoiNThjZDQ3ZDg3MTk5YjBkNGI2OTE2NjVlOTJjYmM5MTkiLCJ1c2VybmFtZSI6ImNwdGF2YXRhciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMTMwOTI5NCwiaGFzaCI6IjgyYjJhMTM4NDdjZWM3ZmZlOTQ3ZGI2NjU4MzFjNWNkMjUxZjc0NDMzOGQ2ZWZlMGNiNTk3ZDQ1OGNjZWM1OTZhMDdlZGQ4M2FhMWE3NjVhNWRhMTYxN2MxOTNmNTkzNDNiNGQyNzgxOTEwNWNhOTgwYmFjMjJhMTIzMDM4MDFhIiwiaGFzaF9tZXRhIjoiMDUxOWU3OGE0NzMzNzNmMjJjZDk0NDIwOGRmNTdmNTdkZDEyYTg4NmM5N2FjYmFkZjdhMzQxZmIzM2RmYjZjYyIsInNlcW5vIjoxNzI4ODIwfSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5hbGV4cm9zZS5uZXQiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM2In0sImN0aW1lIjoxNTExMzA5MzAzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjQ0Nzc1OWZjZjM2ZDc2YzFhZTUwNWNmYmI4NTdkYzZhYzg0MWM4YzQ3NzAwZDZmY2MyYzUxNjM1NmJhZmIyZTUiLCJzZXFubyI6MjIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAB8rwxY+yYUFVzRF5Qo8p9yMma5vKeed+C2JqkSEFkoJ8Qt3LHYxevFPQtcFMEZoFa5rQO758O8Y/cCQamrDuBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGIdIc2a1CAZnxpApsfs27LRE5mHCa2B8AMPj2Tc/ZZRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cptavatar
+
+==================================================================
